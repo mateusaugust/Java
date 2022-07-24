@@ -1,0 +1,17 @@
+
+
+24/07/2022 16:12:16 - Programa Iniciado.
+24/07/2022 16:16:59 - Usuario Escolheu a opcao[1] do Menu.
+24/07/2022 16:16:59 - O vendedor iniciou o cadastro de uma venda.
+24/07/2022 16:17:18 - O vendedor finalizou o cadastro de uma venda.
+24/07/2022 16:24:08 - Usuario Escolheu a opcao[2] do Menu.
+24/07/2022 16:24:22 - O vendedor pediu os cadastros de vendas do dia: 24-07-2022
+24/07/2022 16:24:22 - O vendedor finalizou a consulta dos Registros de Vendas.
+24/07/2022 16:26:49 - Usuario Escolheu a opcao[3] do Menu.
+24/07/2022 16:27:05 - O vendedor pediu os Logs do dia: 24-07-20223
+24/07/2022 16:27:05 - O vendedor finalizou a consulta dos Logs.
+24/07/2022 16:27:14 - Usuario Escolheu a opcao[3] do Menu.
+24/07/2022 16:27:21 - O vendedor pediu os Logs do dia: 24-07-2022
+24/07/2022 16:27:21 - O vendedor finalizou a consulta dos Logs.
+24/07/2022 16:31:50 - Usuario Escolheu a opcao[4] do Menu.
+24/07/2022 16:31:50 - Programa Finalizado.

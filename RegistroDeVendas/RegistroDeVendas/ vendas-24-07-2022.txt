@@ -1,0 +1,8 @@
+-------------------------------------
+Hora e Data do Cadastro da Venda: 24/07/2022 16:16:59
+Nome do Vendedor: Arnaldo
+Valor da Venda: R$ 1500reais
+Debito ou Credito: Credito
+-------------------------------------
+
+
